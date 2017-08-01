@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="aaa" value="# arrange&#10;&#10;# act&#10;&#10;# assert" description="aaa" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
