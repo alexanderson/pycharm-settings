@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
+      <mapping pattern="celery_queue" type="PLAIN_TEXT" />
+      <mapping pattern="active" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
